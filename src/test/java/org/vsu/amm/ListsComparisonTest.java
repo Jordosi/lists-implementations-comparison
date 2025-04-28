@@ -166,7 +166,7 @@ public class ListsComparisonTest {
     /**
      * Заполняет список элементами от 0 до OPERATIONS_COUNT.
      *
-     * @param list заполненный и готовый к работе список
+     * @param list список, который необходимо заполнить
      */
     private void fillList(List<Integer> list) {
         for (int i = 0; i < OPERATIONS_COUNT; i++) {
